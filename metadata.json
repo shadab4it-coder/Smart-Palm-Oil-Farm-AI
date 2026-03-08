@@ -1,0 +1,5 @@
+{
+  "name": "Smart Palm Oil Farm AI",
+  "description": "AI system for Malaysian palm oil farms: disease detection, fertilizer optimization, harvest prediction, and drone monitoring.",
+  "requestFramePermissions": []
+}
